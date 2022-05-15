@@ -6,7 +6,7 @@ async function sendMail(event, context) {
   const params = {
     Source: 'vladislav.kovalskij@gmail.com',
     Destination: {
-      ToAddresses: ['vladislav.kovalskij@gmail.com'],
+      ToAddresses: ['rylezzzzzzz@mail.ru'],
     },
     Message: {
       Body: {
